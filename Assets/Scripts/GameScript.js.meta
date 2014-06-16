@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 5fcd8dc3c4a26494a8b5825616169761
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - buttonLeftTexture: {fileID: 2800000, guid: 0e8b26a5740411841944ea61b309161a, type: 3}
+  - buttonLeftHoverTexture: {fileID: 2800000, guid: 352384f85319ef04dbad2ad99a06a29f,
+      type: 3}
+  - buttonRightTexture: {fileID: 2800000, guid: 5ecc8c1e29173e848a3bb72ada9ed459,
+      type: 3}
+  - buttonRightHoverTexture: {fileID: 2800000, guid: 932a98ea4f337c44ca49fb0bd56dc2ec,
+      type: 3}
+  - buttonUpTexture: {fileID: 2800000, guid: ca3deb3eb5f06c248a8d5cd20ba78efd, type: 3}
+  - buttonUpHoverTexture: {fileID: 2800000, guid: 69a586253347aba47b8dc5f5659b10f5,
+      type: 3}
+  - buttonDownTexture: {fileID: 2800000, guid: 71714b8067bbd0e43866e8d2fcf2eb3c, type: 3}
+  - buttonDownHoverTexture: {fileID: 2800000, guid: 0135f0bb00e1a2a4986a681b9e679d1c,
+      type: 3}
+  - buttonMenuTexture: {fileID: 2800000, guid: 3d820580be4acd04084aaede9ba998c3, type: 3}
+  - buttonMenuHoverTexture: {fileID: 2800000, guid: 422bbfe2fcef71d47bec32aa75ef8354,
+      type: 3}
+  - label1Texture: {fileID: 2800000, guid: e137edf260b3b3741846b04e0099519d, type: 3}
+  - label2Texture: {fileID: 2800000, guid: ea65ead4488ad9c4db5209a30a34db83, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
